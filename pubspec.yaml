@@ -1,0 +1,5 @@
+name: dart_tamper_detect
+description: Data tamper detection with HMAC-SHA256 chain
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
